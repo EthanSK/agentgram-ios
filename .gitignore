@@ -59,6 +59,10 @@ bazel-telegram-ios
 bazel-telegram-ios/*
 bazel-testlogs
 bazel-testlogs/*
+bazel-AgentGram-iOS
+bazel-AgentGram-iOS/*
+build-output
+build-output/*
 xcodeproj.bazelrc
 */*.swp
 *.swp
